@@ -13,9 +13,9 @@ title                    : "Hashbrown Monkey"
 title_separator          : "-"
 name                     : "Michael Brown"
 description              : "Ramblings of a bug maker."
-url                      : "https://hashbrownmike.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/hashbrownmonkey.com" # the subpath of your site, e.g. "/blog"
-repository               : "hashbrownmike/hashbrownmonkey.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : 
+baseurl                  :  
+repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
